@@ -1,5 +1,7 @@
 # ScaleSuite Landing Page
 
+[![Deploy Status](https://github.com/adlimen/scale-suite-landing/actions/workflows/deploy.yml/badge.svg)](https://github.com/adlimen/scale-suite-landing/actions/workflows/deploy.yml)
+
 Landing page per ScaleSuite, una piattaforma AI-driven per il supporto decisionale nelle PMI italiane.
 
 ## Tecnologie
