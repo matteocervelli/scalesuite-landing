@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "ScaleSuite | Piattaforma AI per Decisioni Strategiche",
+    "description": "ScaleSuite è una piattaforma AI-driven progettata per assistere CEO e top manager delle PMI italiane nel processo decisionale strategico."
+  },
+  "menu": {
+    "features": "Funzionalità",
+    "services": "Servizi",
+    "privacy": "Privacy",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "title": "AI-powered per le decisioni strategiche della tua azienda",
+    "subtitle": "ScaleSuite è una piattaforma che supporta CEO e top manager delle PMI italiane nell'analisi dei dati e nella presa delle decisioni aziendali.",
+    "cta": "Scopri di più"
+  },
+  "problem": {
+    "title": "La sfida dei leader d'azienda",
+    "subtitle": "I manager oggi devono prendere decisioni rapide in scenari sempre più complessi e competitivi",
+    "points": [
+      "Sovraccarico di informazioni e dati da analizzare",
+      "Difficoltà nel creare strategie coerenti e misurabili",
+      "Mancanza di strumenti integrati per decisioni data-driven",
+      "Scarsa visibilità sull'allineamento tra strategia e operatività"
+    ]
+  },
+  "solution": {
+    "title": "La soluzione ScaleSuite",
+    "subtitle": "Una suite completa di strumenti per la gestione strategica aziendale",
+    "description": "ScaleSuite combina analisi finanziaria, pianificazione strategica e supporto decisionale con l'intelligenza artificiale per fornirti insight personalizzati."
+  },
+  "services": {
+    "title": "I nostri microservizi",
+    "description": "Ogni componente di ScaleSuite è progettata per risolvere specifiche esigenze aziendali",
+    "auth": {
+      "title": "Auth Service",
+      "description": "Gestione sicura di utenti, ruoli e permessi con autenticazione multi-livello"
+    },
+    "financial": {
+      "title": "Financial Analyzer",
+      "description": "Analisi approfondita dei KPI finanziari con previsioni basate su AI"
+    },
+    "strategic": {
+      "title": "Strategic Map",
+      "description": "Visualizzazione e gestione della strategia aziendale con obiettivi misurabili"
+    },
+    "dashboard": {
+      "title": "Dashboard Builder",
+      "description": "Creazione di dashboard personalizzate per monitorare le metriche chiave"
+    },
+    "okr": {
+      "title": "OKR Tracker",
+      "description": "Gestione degli Obiettivi e Risultati Chiave con allineamento automatico"
+    },
+    "decision": {
+      "title": "Decision Matrix",
+      "description": "Supporto decisionale multi-criterio con raccomandazioni basate su AI"
+    },
+    "meeting": {
+      "title": "Meeting Assistant",
+      "description": "Gestione efficiente di meeting con trascrizione automatica e follow-up"
+    },
+    "ai": {
+      "title": "AI Service",
+      "description": "Motore di intelligenza artificiale che alimenta tutti i servizi della piattaforma"
+    }
+  },
+  "privacy": {
+    "title": "Privacy e sicurezza al primo posto",
+    "subtitle": "La tua tranquillità è la nostra priorità",
+    "points": [
+      {
+        "title": "Dati criptati",
+        "description": "Tutti i dati sono criptati sia in transito che a riposo"
+      },
+      {
+        "title": "Anonimizzazione",
+        "description": "Tecniche avanzate di anonimizzazione per proteggere le informazioni sensibili"
+      },
+      {
+        "title": "Conformità GDPR",
+        "description": "Completa aderenza alle normative europee sulla protezione dei dati"
+      },
+      {
+        "title": "Controllo degli accessi",
+        "description": "Gestione granulare dei permessi e autenticazione multi-fattore"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto a trasformare il tuo processo decisionale?",
+    "subtitle": "Contattaci per una demo personalizzata",
+    "button": "Richiedi demo"
+  },
+  "contact": {
+    "title": "Contattaci",
+    "name": "Nome",
+    "email": "Email",
+    "company": "Azienda",
+    "message": "Messaggio",
+    "submit": "Invia messaggio",
+    "success": "Grazie! Ti contatteremo presto.",
+    "error": "Si è verificato un errore. Riprova più tardi."
+  },
+  "footer": {
+    "description": "ScaleSuite è una piattaforma AI-driven progettata per assistere CEO e top manager delle PMI italiane nel processo decisionale strategico.",
+    "company": "Azienda",
+    "about": "Chi siamo",
+    "features": "Funzionalità",
+    "services": "Servizi",
+    "contact": "Contatti",
+    "legal": "Legale",
+    "privacy_policy": "Privacy Policy",
+    "terms": "Termini e Condizioni",
+    "cookies": "Cookie Policy",
+    "rights": "Tutti i diritti riservati.",
+    "made_with": "Fatto con",
+    "in_italy": "in Italia"
+  }
+} 

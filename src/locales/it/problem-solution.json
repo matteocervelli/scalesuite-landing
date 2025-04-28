@@ -1,0 +1,27 @@
+{
+  "title": "Le Sfide della Crescita Aziendale",
+  "subtitle": "Scopri come ScaleSuite aiuta i CEO e i manager a superare gli ostacoli più comuni nella crescita aziendale",
+  "challenges": {
+    "growth": {
+      "title": "Crescita Sostenibile",
+      "description": "Difficoltà nel bilanciare crescita rapida e sostenibilità a lungo termine, mantenendo il controllo delle operazioni chiave"
+    },
+    "decisions": {
+      "title": "Decisioni Strategiche",
+      "description": "Necessità di prendere decisioni critiche basate su dati affidabili e analisi approfondite del mercato"
+    },
+    "ai": {
+      "title": "Integrazione AI",
+      "description": "Sfida nell'implementare soluzioni di intelligenza artificiale mantenendo il controllo e la trasparenza dei processi decisionali"
+    },
+    "privacy": {
+      "title": "Privacy dei Dati",
+      "description": "Gestione sicura dei dati aziendali sensibili nel rispetto delle normative sulla privacy e sulla protezione dei dati"
+    }
+  },
+  "solution": {
+    "title": "La Soluzione ScaleSuite",
+    "description": "Una piattaforma integrata che combina intelligenza artificiale, analisi dei dati e strumenti di gestione strategica per guidare la crescita della tua azienda",
+    "cta": "Scopri di più"
+  }
+} 

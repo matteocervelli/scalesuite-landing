@@ -1,0 +1,18 @@
+{
+  "title": "Privacy e Sicurezza al Primo Posto",
+  "subtitle": "La tua sicurezza è la nostra priorità. ScaleSuite implementa le più avanzate tecnologie di protezione dei dati per garantire la massima riservatezza delle tue informazioni aziendali.",
+  "features": {
+    "dataProtection": {
+      "title": "Protezione Dati Avanzata",
+      "description": "Utilizziamo sistemi di protezione all'avanguardia per garantire che i tuoi dati siano sempre al sicuro e accessibili solo da personale autorizzato."
+    },
+    "encryption": {
+      "title": "Crittografia End-to-End",
+      "description": "Tutti i dati sono crittografati sia durante la trasmissione che l'archiviazione, utilizzando gli standard più recenti di sicurezza."
+    },
+    "compliance": {
+      "title": "Conformità GDPR",
+      "description": "Rispettiamo pienamente le normative sulla privacy europee e italiane, garantendo la massima trasparenza nella gestione dei dati."
+    }
+  }
+} 

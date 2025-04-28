@@ -1,0 +1,21 @@
+{
+  "title": "Pronto a far crescere la tua azienda?",
+  "subtitle": "Contattaci oggi per una consulenza gratuita",
+  "form": {
+    "name": "Nome",
+    "email": "Email",
+    "company": "Azienda",
+    "message": "Messaggio",
+    "submit": "Invia richiesta",
+    "submitting": "Invio in corso..."
+  },
+  "errors": {
+    "nameRequired": "Il nome è obbligatorio",
+    "emailRequired": "L'email è obbligatoria",
+    "emailInvalid": "Inserisci un indirizzo email valido",
+    "companyRequired": "L'azienda è obbligatoria",
+    "messageRequired": "Il messaggio è obbligatorio",
+    "submitFailed": "Si è verificato un errore durante l'invio. Riprova più tardi."
+  },
+  "success": "Grazie per averci contattato! Ti risponderemo al più presto."
+} 

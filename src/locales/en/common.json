@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "ScaleSuite | AI Platform for Strategic Decisions",
+    "description": "ScaleSuite is an AI-driven platform designed to assist CEOs and top managers of Italian SMEs in strategic decision-making."
+  },
+  "menu": {
+    "features": "Features",
+    "services": "Services",
+    "privacy": "Privacy",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "AI-powered strategic decisions for your business",
+    "subtitle": "ScaleSuite is a platform that supports CEOs and top managers of Italian SMEs in data analysis and business decision-making.",
+    "cta": "Learn more"
+  },
+  "problem": {
+    "title": "The challenge for business leaders",
+    "subtitle": "Managers today must make quick decisions in increasingly complex and competitive scenarios",
+    "points": [
+      "Information overload and data to analyze",
+      "Difficulty in creating coherent and measurable strategies",
+      "Lack of integrated tools for data-driven decisions",
+      "Poor visibility on the alignment between strategy and operations"
+    ]
+  },
+  "solution": {
+    "title": "The ScaleSuite solution",
+    "subtitle": "A complete suite of tools for strategic business management",
+    "description": "ScaleSuite combines financial analysis, strategic planning, and decision support with artificial intelligence to provide you with personalized insights."
+  },
+  "services": {
+    "title": "Our microservices",
+    "description": "Each component of ScaleSuite is designed to address specific business needs",
+    "auth": {
+      "title": "Auth Service",
+      "description": "Secure management of users, roles, and permissions with multi-level authentication"
+    },
+    "financial": {
+      "title": "Financial Analyzer",
+      "description": "In-depth analysis of financial KPIs with AI-based forecasts"
+    },
+    "strategic": {
+      "title": "Strategic Map",
+      "description": "Visualization and management of company strategy with measurable objectives"
+    },
+    "dashboard": {
+      "title": "Dashboard Builder",
+      "description": "Creation of customized dashboards to monitor key metrics"
+    },
+    "okr": {
+      "title": "OKR Tracker",
+      "description": "Management of Objectives and Key Results with automatic alignment"
+    },
+    "decision": {
+      "title": "Decision Matrix",
+      "description": "Multi-criteria decision support with AI-based recommendations"
+    },
+    "meeting": {
+      "title": "Meeting Assistant",
+      "description": "Efficient meeting management with automatic transcription and follow-up"
+    },
+    "ai": {
+      "title": "AI Service",
+      "description": "Artificial intelligence engine that powers all platform services"
+    }
+  },
+  "privacy": {
+    "title": "Privacy and security first",
+    "subtitle": "Your peace of mind is our priority",
+    "points": [
+      {
+        "title": "Encrypted data",
+        "description": "All data is encrypted both in transit and at rest"
+      },
+      {
+        "title": "Anonymization",
+        "description": "Advanced anonymization techniques to protect sensitive information"
+      },
+      {
+        "title": "GDPR compliance",
+        "description": "Complete adherence to European data protection regulations"
+      },
+      {
+        "title": "Access control",
+        "description": "Granular permission management and multi-factor authentication"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to transform your decision-making process?",
+    "subtitle": "Contact us for a personalized demo",
+    "button": "Request demo"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "company": "Company",
+    "message": "Message",
+    "submit": "Send message",
+    "success": "Thank you! We'll contact you soon.",
+    "error": "An error occurred. Please try again later."
+  },
+  "footer": {
+    "description": "ScaleSuite is an AI-driven platform designed to assist CEOs and top managers of Italian SMEs in strategic decision-making.",
+    "company": "Company",
+    "about": "About",
+    "features": "Features",
+    "services": "Services",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy_policy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "cookies": "Cookie Policy",
+    "rights": "All rights reserved.",
+    "made_with": "Made with",
+    "in_italy": "in Italy"
+  }
+} 

@@ -1,0 +1,21 @@
+{
+  "title": "Ready to grow your business?",
+  "subtitle": "Contact us today for a free consultation",
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "company": "Company",
+    "message": "Message",
+    "submit": "Send request",
+    "submitting": "Sending..."
+  },
+  "errors": {
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Please enter a valid email address",
+    "companyRequired": "Company is required",
+    "messageRequired": "Message is required",
+    "submitFailed": "An error occurred while submitting. Please try again later."
+  },
+  "success": "Thank you for contacting us! We'll get back to you soon."
+} 

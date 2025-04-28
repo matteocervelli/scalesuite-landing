@@ -1,0 +1,18 @@
+{
+  "title": "Privacy and Security First",
+  "subtitle": "Your security is our priority. ScaleSuite implements the most advanced data protection technologies to ensure maximum confidentiality of your business information.",
+  "features": {
+    "dataProtection": {
+      "title": "Advanced Data Protection",
+      "description": "We use cutting-edge protection systems to ensure your data is always secure and accessible only by authorized personnel."
+    },
+    "encryption": {
+      "title": "End-to-End Encryption",
+      "description": "All data is encrypted during both transmission and storage, using the latest security standards."
+    },
+    "compliance": {
+      "title": "GDPR Compliance",
+      "description": "We fully comply with European and Italian privacy regulations, ensuring maximum transparency in data management."
+    }
+  }
+} 

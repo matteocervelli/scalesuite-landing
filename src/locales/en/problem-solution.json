@@ -1,0 +1,27 @@
+{
+  "title": "Business Growth Challenges",
+  "subtitle": "Discover how ScaleSuite helps CEOs and managers overcome common growth obstacles",
+  "challenges": {
+    "growth": {
+      "title": "Sustainable Growth",
+      "description": "Difficulty in balancing rapid growth with long-term sustainability while maintaining control of key operations"
+    },
+    "decisions": {
+      "title": "Strategic Decisions",
+      "description": "Need to make critical decisions based on reliable data and in-depth market analysis"
+    },
+    "ai": {
+      "title": "AI Integration",
+      "description": "Challenge in implementing artificial intelligence solutions while maintaining control and transparency of decision-making processes"
+    },
+    "privacy": {
+      "title": "Data Privacy",
+      "description": "Secure management of sensitive business data in compliance with privacy and data protection regulations"
+    }
+  },
+  "solution": {
+    "title": "The ScaleSuite Solution",
+    "description": "An integrated platform that combines artificial intelligence, data analytics, and strategic management tools to drive your business growth",
+    "cta": "Learn more"
+  }
+} 
